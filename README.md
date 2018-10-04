@@ -1,5 +1,7 @@
 # Koha Brodart Edifact Plugin
 
+The latest installation and configuration documentation for the Brodart EDI plugin for Koha is available in [PDF](https://github.com/bywatersolutions/koha-plugin-edifact-enhanced/blob/brodart/INSTALLATION/INSTALLATION.pdf) and [on the web](https://github.com/bywatersolutions/koha-plugin-edifact-enhanced/blob/brodart/INSTALLATION/INSTALLATION.adoc).
+
 A Koha Edifact plugin that replicates the existing Edifact behavior with additional options. 
 This plugin is depends on code that was made available in the 16.05 release of Koha.
 
